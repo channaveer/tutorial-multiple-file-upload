@@ -1,4 +1,4 @@
-##File Upload Demo Project
+#File Upload Demo Project
 
 This is a plain PHP project to demonstrate image upload.
 
